@@ -1,0 +1,4 @@
+com\spring\uploadfile\SpringbootUploadfilemultiApplication.class
+com\appmodel\file\File.class
+com\springapplication\filecontroller\FileController.class
+com\appmodel\filevalid\filevalidator\FileValidator.class
